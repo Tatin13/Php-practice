@@ -21,7 +21,7 @@
     <br><br><br>
     <input type="text" placeholder="Full Name">
     <br><br><br>
-    <input type="text" placeholder="Surname">
+    <input type="text" placeholder="Username">
     <br><br><br>
 <input type="text" placeholder="Enter a valid email address">
     <br><br><br>
